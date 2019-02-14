@@ -1,0 +1,18 @@
+header {
+  font-size:48px;
+}
+
+p {
+  font-size: 32px;
+}
+
+a:link {
+  text-decoration: none;
+  link: hover;
+}
+
+li {
+  padding:20px;
+  list-style:none;
+  margin: 0;
+}
